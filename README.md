@@ -6,20 +6,15 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Python", "Java", "HTML", "CSS3", "REACT"],
+    askMeAbout: ["web dev", "tech", "app dev", "back-end"],
     technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
+        Frameworks: ["Spring", "Hibernate", "Maven", "Mockito"],
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: [ "MySql", "sqlite"],
+
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: [],
     currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
