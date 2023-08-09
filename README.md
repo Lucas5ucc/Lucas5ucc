@@ -1,7 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hello,  I'm Lucas Rocha! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <h3>Junior FullStack Developer</h3>
 
-### <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="70"> A little more about me...  
 
 ```javascript
 const anmol = {
