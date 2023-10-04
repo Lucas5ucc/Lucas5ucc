@@ -6,11 +6,10 @@ Junior FullStack Developer
 
 ```javascript
 const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "HTML", "CSS3", "REACT"],
+    code: ["Java", "Python", "Javascript", "HTML", "CSS3"],
     askMeAbout: ["web dev", "tech", "app dev", "back-end"],
     technologies: {
-        Frameworks: ["Spring", "Hibernate", "Maven", "Mockito"],
+        Frameworks: ["Spring Boot","Spring Framework","React(vite)","Angular" ],
         },
         databases: [ "MySql", "sqlite"],
 
