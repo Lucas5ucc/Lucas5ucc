@@ -6,7 +6,7 @@ Junior FullStack Developer
 
 ```javascript
 const anmol = {
-    code: ["Java", "Python", "Javascript", "HTML", "CSS3"],
+    code: ["Java", "Python", "Javascript", "HTML", "CSS3","Rest"],
     askMeAbout: ["web dev", "tech", "app dev", "back-end"],
     technologies: {
         Frameworks: ["Spring Boot","Spring Framework","React(vite)","Angular" ],
