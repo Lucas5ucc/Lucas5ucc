@@ -6,10 +6,10 @@ Junior FullStack Developer
 
 ```javascript
 const anmol = {
-    code: ["Java", "Python", "Javascript", "HTML", "CSS3","Rest"],
-    askMeAbout: ["web dev", "tech", "app dev", "back-end"],
+    code: ["Java", "Python", "Javascript","Node", "HTML", "CSS3","Rest"],
+    askMeAbout: ["web dev", "tech", "app dev", "back-end","front-end"],
     technologies: {
-        Frameworks: ["Spring Boot","Spring Framework","React(vite)","Angular" ],
+        Frameworks: ["Spring Boot","Express","React(vite)","Angular"],
         },
         databases: [ "MySql", "sqlite"],
 
